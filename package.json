@@ -4,5 +4,8 @@
   "main": "coffeelint.json",
   "repository": "git@github.com:Zorium/zorium-coffeelint-config.git",
   "author": "Zolmeister <zolikahan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "coffeescope2": "^0.4.6"
+  }
 }

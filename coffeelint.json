@@ -6,7 +6,7 @@
         "level": "warn"
     },
     "coffeescript_error": {
-        "level": "warn"
+        "level": "error"
     },
     "colon_assignment_spacing": {
         "level": "warn",
@@ -69,7 +69,7 @@
         "level": "warn"
     },
     "no_plusplus": {
-        "level": "error"
+        "level": "warn"
     },
     "no_stand_alone_at": {
         "level": "error"
@@ -116,5 +116,15 @@
         "level": "warn",
         "spaces": 0,
         "empty_object_spaces": 0
+    },
+    "check_scope": {
+        "module": "coffeescope2",
+        "level": "warn",
+        "environments": ["es6", "browser", "node", "mocha"],
+        "overwrite": false,
+        "hoist_local": false,
+        "unused_variables": true,
+        "unused_arguments": true,
+        "unused_classes": true
     }
 }
