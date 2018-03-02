@@ -120,7 +120,7 @@
     "check_scope": {
         "module": "coffeescope2",
         "level": "warn",
-        "environments": ["es6", "browser", "node", "mocha"],
+        "environments": ["es6", "browser", "node", "jest"],
         "globals": {"ga": true},
         "overwrite": false,
         "shadow": false,
