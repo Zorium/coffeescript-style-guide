@@ -1,6 +1,6 @@
 {
   "name": "zorium-coffeelint-config",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "coffeelint.json",
   "repository": "git@github.com:Zorium/zorium-coffeelint-config.git",
   "author": "Zolmeister <zolikahan@gmail.com>",
