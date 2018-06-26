@@ -6,6 +6,6 @@
   "author": "Zolmeister <zolikahan@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "coffeescope2": "^0.4.6"
+    "coffeescope2": "^0.5.1"
   }
 }
