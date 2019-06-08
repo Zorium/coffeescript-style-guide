@@ -121,7 +121,6 @@
         "module": "coffeescope2",
         "level": "warn",
         "environments": ["builtin", "es6", "browser", "node", "jest"],
-        "globals": {"ga": true, "gtag": true},
         "overwrite": false,
         "shadow": false,
         "hoist_local": false
